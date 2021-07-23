@@ -6,9 +6,9 @@ sections:
     image: /images/6.jpg
     image_alt: App preview
     title: We build AI products
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Artificial Intelligence is here to stay. Cygence is leading it in the
+      right direction. 
     actions:
       - label: Learn More
         url: /features
