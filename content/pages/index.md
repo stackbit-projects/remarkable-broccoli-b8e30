@@ -7,8 +7,8 @@ sections:
     image_alt: Artificial Intelligence
     title: We build AI products
     content: >
-      Artificial Intelligence is finally here. Cygence is leading it in the
-      right direction.
+      And we build it the right way. Cygence is committed to research and
+      development of artificial intelligence products so that it helps humans. 
     actions:
       - label: Learn More
         url: /features
