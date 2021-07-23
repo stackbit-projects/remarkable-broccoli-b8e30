@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: hero
+  - section_id: Cygence
     type: section_hero
     image: /images/6.jpg
     image_alt: App preview
