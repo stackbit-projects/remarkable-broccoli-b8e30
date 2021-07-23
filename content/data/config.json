@@ -50,7 +50,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "/images/logo.png",
+                "image": "/images/logo_orange1_resized.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Artificial Intelligence The Right Way\n"
