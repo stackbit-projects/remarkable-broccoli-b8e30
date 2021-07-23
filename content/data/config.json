@@ -2,7 +2,7 @@
     "title": "Cygence",
     "path_prefix": "/",
     "base_font": "nunito-sans",
-    "palette": "blue",
+    "palette": "cyan",
     "header": {
         "logo_img": "/images/logo_resized_v2.png",
         "logo_img_alt": "Logo",
