@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: We build AI products
     content: >
-      Artificial Intelligence is here to stay. Cygence is leading it in the
-      right direction. 
+      Artificial Intelligence is finally here. Cygence is leading it in the
+      right direction.
     actions:
       - label: Learn More
         url: /features
