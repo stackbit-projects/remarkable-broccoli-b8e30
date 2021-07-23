@@ -41,7 +41,7 @@
             },
             {
                 "label": "Call Us",
-                "url": "/Callus",
+                "url": "/",
                 "style": "primary"
             }
         ]
