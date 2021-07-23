@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: Cygence
     type: section_hero
-    image: /images/ai_blue.jpg
+    image: /images/main_page.jpg
     image_alt: Artificial Intelligence
     title: We build AI products
     content: >
