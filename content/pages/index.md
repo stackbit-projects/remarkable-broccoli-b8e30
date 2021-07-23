@@ -4,7 +4,7 @@ sections:
   - section_id: Cygence
     type: section_hero
     image: /images/6.jpg
-    image_alt: App preview
+    image_alt: Artificial Intelligence
     title: We build AI products
     content: >
       Artificial Intelligence is finally here. Cygence is leading it in the
