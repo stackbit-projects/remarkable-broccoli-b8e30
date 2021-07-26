@@ -41,7 +41,7 @@
             },
             {
                 "label": "Call Us",
-                "url": "/Contact",
+                "url": "/contact",
                 "style": "primary"
             }
         ]
