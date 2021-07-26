@@ -30,7 +30,7 @@
             },
             {
                 "label": "About",
-                "url": "/sign-up",
+                "url": "/signup",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
