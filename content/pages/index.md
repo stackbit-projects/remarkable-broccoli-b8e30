@@ -7,7 +7,7 @@ sections:
     image_alt: Artificial Intelligence
     title: We build AI products
     content: >
-      And we build it the right way. Cygence is committed to research and
+      And we build them the right way. Cygence is committed to research and
       development of artificial intelligence products so that it  only helps
       humans.
     actions:
