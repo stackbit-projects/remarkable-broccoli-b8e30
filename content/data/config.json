@@ -53,7 +53,7 @@
                 "image": "/images/logo_orange1_resized.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Artificial Intelligence built the right way!\n"
+                "content": "*Built the right way!*\n"
             },
             {
                 "type": "footer_nav",
