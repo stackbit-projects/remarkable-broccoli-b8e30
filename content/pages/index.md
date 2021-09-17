@@ -7,8 +7,8 @@ sections:
     image_alt: Artificial Intelligence
     title: AI Chips of the Future
     content: >
-      And we build them the right way. Cygence is committed to research and
-      development of artificially intelligent products that only help humans.
+      Cygence is committed to research and development of artificially
+      intelligent semiconductors that only help humans.
     actions:
       - label: Learn More
         url: /features
