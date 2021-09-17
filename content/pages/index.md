@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: /images/main_page.jpg
     image_alt: Artificial Intelligence
-    title: We build AI products
+    title: AI Chips of the Future
     content: >
       And we build them the right way. Cygence is committed to research and
       development of artificially intelligent products that only help humans.
