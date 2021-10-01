@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     features:
-      - title: The Best Feature of Your Services
+      - title: Design your chip
         image: /images/chip2.jpeg
         image_alt: App preview on a phone and tablet
         content: >-
