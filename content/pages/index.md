@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: /images/main_page.jpg
     image_alt: Artificial Intelligence
-    title: AI Chips of the Future
+    title: AI Chips of the future
     content: >
       We are committed to research and development of artificially intelligent
       semiconductors that only help humanity!
