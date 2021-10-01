@@ -20,10 +20,12 @@ sections:
       - title: Design your chip
         image: /images/chip2.jpeg
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          For VSLI design, hardware description language (HDL) is used. HDL
+          consists of different languages such as Verilog, VHDL, and
+          SystemVerilog. For learning purposes, you can use open-source software
+          tools like Electric, Alliance, Glade. You don’t need to pay for them.
+          Download them free of cost.
         actions:
           - label: Learn More
             url: /features
