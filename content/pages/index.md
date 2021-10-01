@@ -60,7 +60,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-    subtitle: asdfgdfsg
+    subtitle: ' Inpria is the world leader in metal oxide photoresist design, development and manufacturing.'
   - section_id: reviews
     type: section_reviews
     background: white
