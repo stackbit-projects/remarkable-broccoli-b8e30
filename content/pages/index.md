@@ -8,7 +8,7 @@ sections:
     title: AI Chips of the future
     content: >
       We are committed to research and development of artificially intelligent
-      semiconductors that only help humanity!
+      semiconductors that help the world!
     actions:
       - label: Learn More
         url: /features
