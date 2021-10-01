@@ -60,8 +60,8 @@ sections:
             icon: arrow-right
             icon_position: right
     subtitle: >-
-      Cygence is the leader in fast, low cost me semiconductor design,
-      development and manufacturing.
+      Cygence is the leader in fast, low cost semiconductor design, development
+      and manufacturing.
     title: Innovation
   - section_id: reviews
     type: section_reviews
