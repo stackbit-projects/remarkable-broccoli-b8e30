@@ -61,8 +61,8 @@ sections:
             icon: arrow-right
             icon_position: right
     subtitle: >-
-      Cygence is the leader in fast low cost metal oxide photoresist design,
-      development and manufacturing.
+      Cygence is the leader in fast low cost metal oxide design, development and
+      manufacturing.
   - section_id: reviews
     type: section_reviews
     background: white
