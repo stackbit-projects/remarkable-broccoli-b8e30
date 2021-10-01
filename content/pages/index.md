@@ -18,7 +18,7 @@ sections:
     background: gray
     features:
       - title: The Best Feature of Your Services
-        image: /images/ai_blue.jpg
+        image: /images/chip.jpeg
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
